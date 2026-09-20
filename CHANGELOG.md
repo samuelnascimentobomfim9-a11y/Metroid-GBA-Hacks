@@ -28,7 +28,7 @@ e este projeto segue o [Versionamento Semântico](https://semver.org/spec/v2.0.0
 
 ### 2026-08-05
 
-- Atualização para o MAGE Themes [v1.19.1](https://github.com/ConConner/MAGE-Themes/releases/tag/v1.19.1)
+- Atualização para o [MAGE Themes v1.19.1](https://github.com/ConConner/MAGE-Themes/releases/tag/v1.19.1)
   - 1.19.1
     - **Bug Fixes**: flipping in graphics editor while moving a selection does not flip the selection ([79522aa](https://github.com/ConConner/MAGE-Themes/commit/79522aaae5c776f22d6df0c43b91089383fccb0e))
   - 1.19.0 
@@ -37,21 +37,23 @@ e este projeto segue o [Versionamento Semântico](https://semver.org/spec/v2.0.0
 
 ### 2026-07-10
 
-- Adicionado suporte pro MAGE Themes [v1.16.0](https://github.com/ConConner/MAGE-Themes/releases/tag/v1.16.0)
+- Adicionado suporte pro [MAGE Themes v1.16.0](https://github.com/ConConner/MAGE-Themes/releases/tag/v1.16.0)
   - **Features**: moved new map editor out of experimental ([a223ec8](https://github.com/ConConner/MAGE-Themes/commit/a223ec8a1f6d4e86a2c5486d0e6fd1063f622728))
 
 ## Lançados
 
 ### Metroid Fusion Super Zer1
 
-#### [Estável] Não publicado - 2026-09-?? 
+#### 『1.0.1』 - 2026-09-20 
 
 - Adicionado: Walljump.
-  - Na versão Fácil.
+  - Versão Fácil
 - Modificado: Velocidade do Missil.
   - Alterado a Velociadade para a velocidade normal do Missil.
-  - OBS: Alteração somente para a Versão Fácil
+  - Alteração somente para a Versão Fácil
 - Corrigido: Dano dos Inimigos e Vulnerabilidade.
+  - Versão Fácil
+- Corrigido: Alguns tiles do minimapa.
 
 #### 『1.0.0』 - 2026-09-05
 
