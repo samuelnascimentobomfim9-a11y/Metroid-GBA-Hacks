@@ -1,6 +1,11 @@
 # Timeline
 Todas as alterações feita com commits (e pull requests) deste [Repositório](https://github.com/samuelnascimentobomfim9-a11y/Metroid-Fusion-Hacks) serão documentadas neste arquivo.
 
+### 2026-09-20
+
+- Super Zer1: Versão 1.0.1 lançada! [Commit: [f6ecf52](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/f6ecf52ee96ad0338d9f208b9eabc7347d41103a)]
+  - Essa versão corrigi algumas coisas na versão Easy.
+
 ### 2026-09-17
 
 - Atualizando o README.md [Commit: [04a672b](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/04a672b87f602917525a85fef8aaf934affef3f9)]
