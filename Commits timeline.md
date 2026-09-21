@@ -1,6 +1,11 @@
 # Timeline
 Todas as alterações feita com commits (e pull requests) deste [Repositório](https://github.com/samuelnascimentobomfim9-a11y/Metroid-Fusion-Hacks) serão documentadas neste arquivo.
 
+### 2026-09-21
+
+- Suporte pra versão 1.22 do MAGE Themes [Commit: [b2a5dd7](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/b2a5dd79d02d8f754d3f152c88eecae62229ae3f)]
+  - Enviado no Galaxy A17
+
 ### 2026-09-20
 
 - Super Zer1: Versão 1.0.1 lançada! [Commit: [f6ecf52](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/f6ecf52ee96ad0338d9f208b9eabc7347d41103a)]
