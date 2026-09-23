@@ -7,6 +7,12 @@ e este projeto segue o [Versionamento Semântico](https://semver.org/spec/v2.0.0
 
 ## Geral
 
+### 2026-09-23
+
+- Atualização do [MAGE THEMES](https://github.com/ConConner/MAGE-Themes) para a [versão 1.23.0](https://github.com/ConConner/MAGE-Themes/releases/tag/v1.23.0)
+  - **Bug Fixes**: flipping non-initialized graphics in graphics editor is irreversible ([3a95d4a](https://github.com/ConConner/MAGE-Themes/commit/3a95d4a54b1cf255fc235555722d273348084e04)); oam editor corrupts ROM if a frame gets referenced in multiple animations ([49193ef](https://github.com/ConConner/MAGE-Themes/commit/49193ef7da8cea061147a584210f8b779c5fca14)); tiles in map editor tile selection desync with flip buttons on global editor update ([9b90a86](https://github.com/ConConner/MAGE-Themes/commit/9b90a86667a4f36eb0d43f921e3453c4e3c1c67b))
+  - **Features**: move new graphics editor out of experimental ([9826c25](https://github.com/ConConner/MAGE-Themes/commit/9826c25b749a7ea4b6ae0dd5804bd77d533354c5)); move oam editor out of experimental ([b5c9031](https://github.com/ConConner/MAGE-Themes/commit/b5c903163ba90ebb87c3e3e103938d852915c256)); moved new palette editor out of experimental ([60eb61e](https://github.com/ConConner/MAGE-Themes/commit/60eb61e36b96ad5db334135346bbe37051fcbda8))
+
 ### 2026-09-21
 
 - Atualização do [MAGE](https://github.com/ConConner/MAGE-Themes) para a [Versão 1.22.0](https://github.com/ConConner/MAGE-Themes/releases/tag/v1.22.0)
