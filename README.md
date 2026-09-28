@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> O repositorio foi arquivado e desatualizado indeterminadamente. Os arquivos estão disponivel para download no Release.
+
 # Metroid-GBA-Hacks
 Meus hacks, traduções ou melhorias do Fusion.
 
