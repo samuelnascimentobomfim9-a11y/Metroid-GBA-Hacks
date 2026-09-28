@@ -1,6 +1,12 @@
 # Timeline
 Todas as alterações feita com commits (e pull requests) deste [Repositório](https://github.com/samuelnascimentobomfim9-a11y/Metroid-Fusion-Hacks) serão documentadas neste arquivo.
 
+### 2026-09-28
+
+- Ataulizar README.md [Commit: [e3dd958](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/e3dd958205319210d3787143b887893f9eda6bc9)]
+  - Estou me aposentando...
+Signed-off-by: SamuelNB2026 <samuelnascimentobomfim9@gmail.com>
+
 ### 2026-09-21
 
 - Suporte pra versão 1.22 do MAGE Themes [Commit: [b2a5dd7](https://github.com/samuelnascimentobomfim9-a11y/Metroid-GBA-Hacks/commit/b2a5dd79d02d8f754d3f152c88eecae62229ae3f)]
